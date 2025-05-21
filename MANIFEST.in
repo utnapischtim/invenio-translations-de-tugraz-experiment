@@ -1,0 +1,2 @@
+recursive-include invenio_translations_de/translations *
+recursive-include invenio_translations_de/ui *

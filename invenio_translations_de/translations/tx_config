@@ -1,0 +1,311 @@
+
+
+[main]
+host = https:/app.transifex.com
+
+[o:inveniosoftware:p:invenio:r:invenio-notifications-messages]
+file_filter = invenio_notifications/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_notifications/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-access-messages]
+file_filter = invenio_access/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_access/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-jobs-messages]
+file_filter = invenio_jobs/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_jobs/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-stats-messages]
+file_filter = invenio_stats/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_stats/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-communities-messages]
+file_filter = invenio_communities/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_communities/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-communities-messages-ui]
+file_filter = invenio_communities/assets/semantic-ui/translations/invenio_communities/messages/<lang>/messages.po
+source_file = invenio_communities/assets/semantic-ui/translations/invenio_communities/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-vocabularies-messages]
+file_filter = invenio_vocabularies/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_vocabularies/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-app-rdm-messages]
+file_filter = invenio_app_rdm/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_app_rdm/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-theme-messages]
+file_filter = invenio_theme/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_theme/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-drafts-resources-messages]
+file_filter = invenio_drafts_resources/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_drafts_resources/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-administration-messages]
+file_filter = invenio_administration/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_administration/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-administration-messages-ui]
+file_filter = invenio_administration/assets/semantic-ui/translations/invenio_administration/messages/<lang>/messages.po
+source_file = invenio_administration/assets/semantic-ui/translations/invenio_administration/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-requests-messages]
+file_filter = invenio_requests/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_requests/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-requests-messages-ui]
+file_filter = invenio_requests/assets/semantic-ui/translations/invenio_requests/messages/<lang>/messages.po
+source_file = invenio_requests/assets/semantic-ui/translations/invenio_requests/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-github-messages]
+file_filter = invenio_github/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_github/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-records-rest-messages]
+file_filter = invenio_records_rest/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_records_rest/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-records-permissions-messages]
+file_filter = invenio_records_permissions/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_records_permissions/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-banners-messages]
+file_filter = invenio_banners/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_banners/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-webhooks-messages]
+file_filter = invenio_webhooks/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_webhooks/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-i18n-messages]
+file_filter = invenio_i18n/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_i18n/translations/messages.pot
+source_lang = en
+type        = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-files-rest-messages]
+file_filter = invenio_files_rest/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_files_rest/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-oaiserver-messages]
+file_filter = invenio_oaiserver/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_oaiserver/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-app-rdm-messages]
+file_filter = invenio_app_rdm/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_app_rdm/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-app-rdm-messages-ui]
+file_filter = invenio_app_rdm/theme/assets/semantic-ui/translations/invenio_app_rdm/messages/<lang>/messages.po
+source_file = invenio_app_rdm/theme/assets/semantic-ui/translations/invenio_app_rdm/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-oauth2server-messages]
+file_filter = invenio_oauth2server/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_oauth2server/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-formatter-messages]
+file_filter = invenio_formatter/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_formatter/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-search-ui-messages]
+file_filter = invenio_search_ui/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_search_ui/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-search-ui-messages-js]
+file_filter = invenio_search_ui/assets/semantic-ui/translations/invenio_search_ui/messages/<lang>/messages.po
+source_file = invenio_search_ui/assets/semantic-ui/translations/invenio_search_ui/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-audit-logs-messages]
+file_filter = invenio_audit_logs/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_audit_logs/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-saml-messages]
+file_filter = invenio_saml/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_saml/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-records-messages]
+file_filter = invenio_records/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_records/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-pidstore-messages]
+file_filter = invenio_pidstore/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_pidstore/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-admin-messages]
+file_filter = invenio_admin/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_admin/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-users-resources-messages]
+file_filter = invenio_users_resources/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_users_resources/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-pages-messages]
+file_filter = invenio_pages/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_pages/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-userprofiles-messages]
+file_filter = invenio_userprofiles/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_userprofiles/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-records-resources-messages]
+file_filter = invenio_records_resources/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_records_resources/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-oauthclient-messages]
+file_filter = invenio_oauthclient/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_oauthclient/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:marshmallow-utils-messages]
+file_filter = marshmallow_utils/translations/<lang>/LC_MESSAGES/messages.po
+source_file = marshmallow_utils/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-accounts-messages]
+file_filter = invenio_accounts/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_accounts/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-records-ui-messages]
+file_filter = invenio_records_ui/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_records_ui/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-rdm-records-messages]
+file_filter = invenio_rdm_records/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_rdm_records/translations/messages.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-rdm-records-messages-ui]
+file_filter = invenio_rdm_records/assets/semantic-ui/translations/invenio_rdm_records/messages/<lang>/messages.po
+source_file = invenio_rdm_records/assets/semantic-ui/translations/invenio_rdm_records/translations.pot
+source_lang = en
+type = PO
+
+
+[o:inveniosoftware:p:invenio:r:invenio-previewer-messages]
+file_filter = invenio_previewer/translations/<lang>/LC_MESSAGES/messages.po
+source_file = invenio_previewer/translations/messages.pot
+source_lang = en
+type = PO

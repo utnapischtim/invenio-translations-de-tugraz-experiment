@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invenio-translations-de-tugraz-experiment"
+dynamic = ["version"]
+description = "Invenio translations for DE TU Graz"
+readme = "README.rst"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+
+[tool.setuptools]
+packages = ["invenio_translations_de"]
+
+[project.entry-points."invenio_i18n.translations_bundle"]
+messages = "invenio_translations_de"
